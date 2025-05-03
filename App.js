@@ -48,7 +48,7 @@ const CurrencyConverter = () => {
 
   return (
     <View style={{ padding: 20, width: "100%" }}>
-      <Title style={{ textAlign: "center", marginBottom: 20, color: "black" }}>CURRENCY CONVERTER</Title>
+      <Title style={{ textAlign: "center", marginBottom: 20, color: "black", marginTop: 50 }}>CURRENCY CONVERTER</Title>
 
       <TextInput
         label="Amount"
